@@ -23,7 +23,7 @@ public class AreaCalculate {
 	public static void main(String[] args) {
 		
 		AreaCalculate obj = new AreaCalculate();
-		
+		//Calling area method
 		System.out.println(obj.area(25d));
 	}
 
